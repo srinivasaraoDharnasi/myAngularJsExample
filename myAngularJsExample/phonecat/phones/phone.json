@@ -1,0 +1,155 @@
+[
+    {
+        "Age": 0,
+        "Id": "motorola-xoom-with-wi-fi",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/motorola-xoom-with-wi-fi.0.jpg",
+        "Name": "Motorola XOOM ™ with Wi-Fi",
+        "Snippet": "The Next, Next Generation \r \n \r \nExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    },
+    {
+        "Age": 1,
+        "Id": "motorola-xoom",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/motorola-xoom.0.jpg",
+        "Name": "MOTOROLA XOOM ™",
+        "Snippet": "The Next, Next Generation \n \nExperience the future with MOTOROLA XOOM, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    },
+    {
+        "Age": 2,
+        "Carrier": "AT & T",
+        "Id": "motorola-atrix-4g",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/motorola-atrix-4g.0.jpg",
+        "Name": "MOTOROLAATRIX™4G",
+        "Snippet": "MOTOROLAATRIX4GTheWorld'sMostPowerfulSmartphone."
+    },
+    {
+        "Age": 3,
+        "Id": "dell-streak-7",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/dell-streak-7.0.jpg",
+        "Name": "DellStreak7",
+        "Snippet": "IntroducingDell™Streak7.Sharephotosvideosandmoviestogether.It’sSmallEnoughtocarryaroundbigEnoughtogatheraround."
+    },
+    {
+        "Age": 4,
+        "Carrier": "CellularSouth",
+        "Id": "samsung-gem",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/samsung-gem.0.jpg",
+        "Name": "SamsungGem™",
+        "Snippet": "TheSamsungGem™bringsyouEverythingThatYouWouldExpectmorefromatouchdisplayandsmartphone–moreappsmorefeaturesandamoreaffordableprice."
+    },
+    {
+        "Age": 5,
+        "Carrier": "Dell",
+        "Id": "dell-venue",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/dell-venue.0.jpg",
+        "Name": "DellVenue",
+        "Snippet": "TheDellVenueYourPersonalExpressLanetoEverything"
+    },
+    {
+        "Age": 6,
+        "Carrier": "BestBuy",
+        "Id": "nexus-s",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/nexus-s.0.jpg",
+        "Name": "NexusS",
+        "Snippet": "FastjustgotfasterwithNexusS.ApureGoogleexperienceNexusSisthefirstphonetorunGingerbread(Android2.3)thefastestversionofAndroidyet."
+    },
+    {
+        "Age": 7,
+        "Carrier": "CellularSouth",
+        "Id": "lg-axis",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/lg-axis.0.jpg",
+        "Name": "LGAxis",
+        "Snippet": "AndroidPoweredGoogleMapsNavigation5CustomizableHomeScreens"
+    },
+    {
+        "Age": 8,
+        "Id": "samsung-galaxy-tab",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/samsung-galaxy-tab.0.jpg",
+        "Name": "SamsungGalaxyTab™",
+        "Snippet": "FeelFreetoTab™.TheSamsungGalaxyTab™yearbringsyouultra-mobileentertainmentexperiencethroughITS7”displayhigh-powerprocessorandAdobe®Flash®Playercompatibility."
+    },
+    {
+        "Age": 9,
+        "Carrier": "CellularSouth",
+        "Id": "samsung-galaxy-showcase-a-s-phone",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg",
+        "Name": "SamsungShowcase™GalaxyS™phone",
+        "Snippet": "TheSamsungShowcase™Deliversacinemaqualityexperiencelikeyou’veneverseenthebefore.Itsinnovative4”touchdisplaytechnologyprovidesrichpicturebrillianceEvenoutdoors"
+    },
+    {
+        "Age": 10,
+        "Carrier": "Verizon",
+        "Id": "droid-2-global-by-motorola",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/droid-2-global-by-motorola.0.jpg",
+        "Name": "DROID™2GlobalbyMotorola",
+        "Snippet": "Thefirstsmartphonewitha1.2GHzprocessorandglobalcapabilities."
+    },
+    {
+        "Age": 11,
+        "Carrier": "Verizon",
+        "Id": "droid-by-motorola-pro",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/droid-pro-by-motorola.0.jpg",
+        "Name": "DROID™ProbyMotorola",
+        "Snippet": "ThenextgenerationofDOE."
+    },
+    {
+        "Age": 12,
+        "Carrier": "AT&T",
+        "Id": "motorola-bravo-with-MOTOBLUR",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/motorola-bravo-with-motoblur.0.jpg",
+        "Name": "MOTOROLABRAVO™withMOTOBLUR™",
+        "Snippet": "Anexperiencetocheerabout."
+    },
+    {
+        "Age": 13,
+        "Carrier": "T-Mobile",
+        "Id": "motorola-defy-with-MOTOBLUR",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/motorola-defy-with-motoblur.0.jpg",
+        "Name": "MotorolaDEFY™withMOTOBLUR™",
+        "Snippet": "Areyoureadyforeverythinglifethrowsyourway?"
+    },
+    {
+        "Age": 14,
+        "Carrier": "T-Mobile",
+        "Id": "T-Mobile-myTouch-4G",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/t-mobile-mytouch-4g.0.jpg",
+        "Name": "T-MobilemyTouch4G",
+        "Snippet": "TheT-MobilemyTouch4Gisapremiumsmartphonedesignedtodeliverblazingfast4GSpeedsThatYouCantovideochatfrompracticallyanywherewithorwithoutWi-Fi."
+    },
+    {
+        "Age": 15,
+        "Carrier": "U.S.Cellular",
+        "Id": "samsung-mesmerize-the-galaxy-s-phone",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/samsung-mesmerize-a-galaxy-s-phone.0.jpg",
+        "Name": "SamsungMesmerize™GalaxyS™phone",
+        "Snippet": "TheSamsungMesmerize™Deliversacinemaqualityexperiencelikeyou’veneverseenthebefore.Itsinnovative4”touchdisplaytechnologyprovidesrichpicturebrillianceEvenoutdoors"
+    },
+    {
+        "Age": 16,
+        "Carrier": "Sprint",
+        "Id": "sanyo-zio",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/sanyo-zio.0.jpg",
+        "Name": "SANYOZIO",
+        "Snippet": "TheSanyoZiobyKyoceraAndroidsmartphoneisyearwithacombinationofultra-sleekstylingstrongperformanceandunprecedentedvalue."
+    },
+    {
+        "Age": 17,
+        "Id": "samsung-transform",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/samsung-transform.0.jpg",
+        "Name": "SamsungTransform™",
+        "Snippet": "TheSamsungTransform™bringsyouafunwaytocustomizeyourAndroidpoweredtouchscreenphonetojustthewayyoulikeitthroughyourfavoritethemed“SprintIDServicePack”."
+    },
+    {
+        "Age": 18,
+        "Id": "t-mobile-g2",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/t-mobile-g2.0.jpg",
+        "Name": "T-MobileG2",
+        "Snippet": "TheT-MobileG2withGoogleisthefirstsmartphonebuiltfor4GSpeedsonT-Mobile'snewnetwork.GettheinformationyouNeedfasterthanyoueverthoughtPossible."
+    },
+    {
+        "Age": 19,
+        "Id": "motorola-charm-with-MOTOBLUR",
+        "ImageUrl": "http://localhost/AngularJs/MyAngularJs/phonecat/img/phones/motorola-charm-with-motoblur.0.jpg",
+        "Name": "MotorolaCHARM™withMOTOBLUR™",
+        "Snippet": "MotorolaCHARMfitseasilyintoyourpocketorpalm.IncludesMOTOBLURservice."
+    }
+]

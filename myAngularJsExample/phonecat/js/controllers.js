@@ -1,0 +1,14 @@
+var phonecatApp = angular.module('phonecatApp', []);
+phonecatApp.controller('PhoneListCtrl',['$scope','$http',
+  function ($scope, $http) {
+	
+	
+	$http.get('http://localhost/AngularJs/MyAngularJs/phonecat/phones/phone.json').success(function(data){
+		
+		$scope.phones = data;
+		
+	});
+
+	 $scope.orderProp = 'Age';
+	                 }]);
+

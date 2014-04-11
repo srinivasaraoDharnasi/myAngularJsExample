@@ -1,0 +1,21 @@
+.container-fluid{
+	width: "100%";
+	background-color: white;
+	
+}
+.span2{
+	width: "100%";
+	background-color: #f3f3f3;
+	margin: auto;
+	float: none;
+	text-align: center;	
+}
+
+.span10{
+	width: "100%";
+	background-color: #f3f3f3;
+	float: none;
+	text-align: center;
+	
+}
+
