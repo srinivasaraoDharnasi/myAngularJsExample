@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:ng="http://angularjs.org" data-ng-app="angular-google-maps">
+<head>
+<title>Yellow AutoHona</title>
+<link rel="stylesheet" href="css/app.css" />
+<link rel="stylesheet" href="css/searchbox.css"/>
+</head>
+<body>
+    
+    <div id="logo" style="position: absolute; z-index: 200; margin-left: 18%;">
+    <img src="images/logo.png" style="height: 40%; width: 50%;" >
+    </div>
+    
+    <div class="form-wrapper" style="position: absolute; z-index: 200;" data-ng-controller="SearchForm">
+     <input type="text" id="search" placeholder="Source">
+    <!-- <google-places ng-model="" ></google-places>
+    <google-places ng-model="" ></google-places> -->
+  <input type="text" id="search" placeholder="Destination">
+    <input type="submit" data-ng-click="doSearch()" value="go" id="submit">
+</div>
+
+
+<!-- <div id='search-box' style="position: absolute; z-index: 200;">
+  <div  id='search-form'>
+    <input id='search-text' name='q' placeholder='type here' type='text'/>
+    <input id='search-text' name='q' placeholder='type here' type='text'/>
+    <button id='search-button' type='submit'><span>Search</span></button>
+  </div>
+</div> -->
+	<div  id="map-canvas" data-ng-controller="mapController">
+		<google-map center="map.center" zoom="map.zoom" draggable="true"
+			latitude="latitude" longitude="longitude" options="map.options">
+		<marker coords="map.center"> </marker> </google-map>
+	</div>
+
+	<script
+		src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.3/angular.min.js">
+		
+	</script>
+	<script src='//maps.googleapis.com/maps/api/js?sensor=false'>
+		
+	</script>
+	<script
+		src='//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js'>
+		
+	</script>
+	<script src='js/angular-google-maps-min.js'>
+		
+	</script>
+	<script src="js/mapModule.js">
+		
+	</script>
+	<script src="js/google-place-search.js"></script>
+
+</body>
+</html>
